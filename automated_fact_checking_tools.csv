@@ -1,0 +1,43 @@
+Target public,Name,Platform,Language,Fact-checking phase,Link
+Fact-checkers,Full Fact Automated Fact-checking platform,website,spanish,monitoring; spotting claims; fact-checking; sharing,https://fullfact.org/about/automated/
+Fact-checkers,Claimbuster,website,english,monitoring; spotting claims; fact-checking,https://idir.uta.edu/claimbuster/
+Fact-checkers; general public,Chequeado - Desgrabador,website,spanish,monitoring,https://chequeabot.chequeado.com/desgrabador/
+Fact-checkers; general public; Companies,Radar Aos Fatos,website,portuguese,monitoring,https://www.aosfatos.org/radar/#!/
+Fact-checkers,Hoaxy,website,multiple,monitoring; spotting claims; fact-checking,https://hoaxy.iuni.iu.edu/
+Fact-checkers; general public; Companies,CrowdTangle,website,multiple,monitoring,https://www.crowdtangle.com/
+Fact-checkers; general public,Fátima (Aos Fatos),"whatsapp, messenger; twitter",portuguese,sharing,https://www.aosfatos.org/fatima/
+Fact-checkers,ClaimReview model,Modelo de dados,multiple,other,https://schema.org/ClaimReview
+Fact-checkers; general public,Monitor de whatsapp da UFMG,whatsapp,portuguese,monitoring,http://www.whatsapp-monitor.dcc.ufmg.br/brazil/
+Fact-checkers; general public,Tech & Check Alerts,Email,-,monitoring; spotting claims,https://reporterslab.org/tech-and-check/
+general public,Share the facts,plugin,-,sharing,https://reporterslab.org/tech-and-check/
+general public,TweetCred,plugin,english,fact-checking,https://chrome.google.com/webstore/detail/tweetcred/fbokljinlogeihdnkikeeneiankdgikg
+general public,Detector de Fake News,plugin,portuguese,monitoring; spotting claims; fact-checking; sharing,https://chrome.google.com/webstore/detail/fake-news-detector/alomdfnfpbaagehmdokilpbjcjhacabk 
+general public,First Draft News Check,plugin,english,other,https://chrome.google.com/webstore/detail/firstdraftnewscheck/japockpeaaanknlkhagilkgcledilbfk
+general public,Confere ai,website,portuguese,fact-checking,https://confereai.ne10.uol.com.br/#/consultar
+general public,Facebook plugin,website,multiple,sharing,
+general public,FakeCheck,website; whatsapp,portuguese,fact-checking,http://nilc-fakenews.herokuapp.com
+general public,whatsapp On-device fact-checking,whatsapp,english,fact-checking,https://misinforeview.hks.harvard.edu/article/can-whatsapp-benefit-from-debunked-fact-checked-stories-to-reduce-misinformation/ 
+general public,IFCN Chatbot,whatsapp,multiple,sharing,https://wa.me/17272912606?text=oi
+general public,Whatsapp Full Fact,whatsapp,english,sharing,https://fullfact.org/blog/2020/sep/full-fact-whatsapp-uk/  
+general public,Owlfactor,iOS,english,fact-checking,
+general public,Newsreal,iOS,english,fact-checking,
+general public,Newstrition,iOS,english,fact-checking,
+general public,FactStream,iOS,english,sharing ,
+general public,GlennKessler,iOS,english,sharing ,
+general public,Headline Maker,iOS,english,other,
+general public,Eu Fiscalizo ,iOS; Android,portuguese,fact-checking,
+general public,Elisa,Android,english,fact-checking,
+general public,Fact Check,Android,english,fact-checking,
+general public,Test News,Android,english,fact-checking,
+general public,Kauwa Kaate Fact Checker,Android,english,fact-checking,
+general public,Fake image Detector,Android,english,fact-checking,
+general public,Oigetit,Android,english,fact-checking; sharing,
+general public,Check News,Android,portuguese,fact-checking; sharing,
+general public,Is it Fake News?,Android,english,sharing,
+general public,Nokiye,Android,english,sharing,
+general public,"Alt News
+",Android,english,sharing,
+general public,NewsCop,Android,english,other,
+general public,Detector de Notícias Falsas,Android,portuguese,other,
+general public,Fake News Test,Android,english,other,
+general public,Check News Brasil,Android,portuguese,other,
