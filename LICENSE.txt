@@ -1,0 +1,9 @@
+/*
+ * ----------------------------------------------------------------------------
+ * "THE WINE-WARE LICENSE":
+ * <https://github.com/manuellavalenca> wrote this file. As long as you retain this notice you
+ * can do whatever you want with this stuff. If we meet some day, and you think
+ * this stuff is worth it, you can buy me a glass of wine in return.   
+ * - Manuella Valença, adapted from Poul-Henning Kamp's Beer-Ware License
+ * ----------------------------------------------------------------------------
+ */
