@@ -1,5 +1,4 @@
 # [English] Automated fact checking tools
-*Português abaixo*
 
 List of tools that help automating steps from the fact-checking process. This mapping began in a final work project for my Journalism degree in 2020. The idea is to keep updating it as new tools are created. This is a work in progress, so feel free to suggest adding new tools or updating information.
 
